@@ -3,7 +3,7 @@
 
 ---
 
-Here you will find various C++ projects, which could be useful to your daily tasks.
+Here you will find various Shell projects, which could be useful to your daily tasks.
 
 ---
 
