@@ -3,7 +3,7 @@
 
 ---
 
-Here you will find various Shell projects, which could be useful to your daily tasks.
+Here you will find various Shell projects, which could be useful for your daily tasks.
 
 ---
 
